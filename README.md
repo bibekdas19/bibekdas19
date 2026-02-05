@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <Your Name>
+# 👋 Hi, I'm Bibek Das
 
 🧪 **SDET / QA Analyst** with 4+ years of experience in **manual and automation testing**  
 ⚙️ Specialized in **Selenium frameworks**, **REST API automation**, and **test strategy**  
